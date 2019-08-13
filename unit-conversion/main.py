@@ -34,7 +34,6 @@ def test_linalg(conversions):
 	t1 = time()
 	linalg_converter = make_linalg_converter(conversions)
 	t2 = time()
-	#np.testing.assert_almost_equal(linalg_converter('tsp', 'cup', 20), 0.416667, decimal=4)
 	print(linalg_converter('CAD', 'PLN', 100))
 	print('Linalg: elapsed: %.9fs' % (t2 - t1))
 
