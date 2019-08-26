@@ -1,3 +1,0 @@
-tbsp -> 3 tsp
-cup -> 16 tbsp
-kg -> 1000 g
