@@ -1,0 +1,34 @@
+american
+	north american
+		southern_us
+		cajun_creole
+		mexican
+	caribbean
+		jamaican
+	south american
+		brazilian
+asian
+	east asian
+		chinese
+		japanese
+		korean
+	south asian
+		indian
+	southeast asian
+		thai
+		vietnamese
+		filipino
+european
+	southern european
+		greek
+		spanish
+		italian
+	eastern european
+		russian
+	northern european
+		british
+		irish
+	western european
+		french
+african
+	moroccan

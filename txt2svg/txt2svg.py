@@ -33,7 +33,8 @@ def make_graph(edges):
 
 def get_layout(G, width, height):
 	#layout = nx.spring_layout(G, k=12, iterations=1000)
-	layout = nx.kamada_kawai_layout(G)
+	#layout = nx.kamada_kawai_layout(G)
+	layout = nx.spectral_layout(G)
 	min_x = min([v[0] for v in layout.values()])
 	max_x = max([v[0] for v in layout.values()])
 	min_y = min([v[1] for v in layout.values()])
@@ -92,7 +93,7 @@ def shorten_by_r(from_x, from_y, to_x, to_y):
 	return (to_x + D * math.cos(angle), to_y + D * math.sin(angle))
 
 def main():
-	W = 300
+	W = 500
 	H = 500
 	edges = parse_input()
 	G = make_graph(edges)

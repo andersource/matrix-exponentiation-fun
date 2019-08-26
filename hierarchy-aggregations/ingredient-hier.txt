@@ -1,0 +1,688 @@
+vegetables
+	lettuce
+		romaine lettuce
+		iceberg lettuce
+		shredded lettuce
+		lettuce leaves
+	olives
+		black olives
+			sliced black olives
+		pitted kalamata olives
+		kalamata
+		green olives
+	tomatoes
+		sun-dried tomatoes
+		grape tomatoes
+		green tomatoes
+		chopped tomatoes
+		plum tomatoes
+		roma tomatoes
+		fresh tomatoes
+		diced tomatoes
+		crushed tomatoes
+		cherry tomatoes
+		whole peeled tomatoes
+		tomato purée
+		ketchup
+		stewed tomatoes
+	garlic
+		garlic cloves
+			large garlic cloves
+		chopped garlic
+	pepper
+		black pepper
+		poblano peppers
+		white pepper
+		pimentos
+		cayenne
+			cayenne pepper
+		green pepper
+		red pepper
+			red chili peppers
+				dried red chile peppers
+			roasted red peppers
+		bell pepper
+			green bell pepper
+				chopped green bell pepper
+			red bell pepper
+			yellow bell pepper
+		chilies
+			chili
+			chili pepper
+				ancho chile pepper
+			chiles
+				chillies
+					poblano chiles
+					green chile
+						green chilies
+							diced green chilies
+					jalapeno chilies
+					chipotle chile
+					chile pepper
+					serrano chile
+					thai chile
+		serrano peppers
+	onion
+		minced onion
+		purple onion
+		yellow onion
+		green onions
+			sliced green onions
+		chopped onion
+			finely chopped onion
+		sweet onion
+		white onion
+		spring onions
+		vidalia onion
+		diced onions
+	shallots
+	cilantro
+		chopped cilantro
+			chopped cilantro fresh
+		fresh cilantro
+		cilantro leaves
+		cilantro sprigs
+	coriander
+		ground coriander
+		coriander powder
+		fresh coriander
+	parsley
+		fresh parsley leaves
+			flat leaf parsley
+			Italian parsley leaves 
+		fresh parsley
+		chopped parsley
+		parsley sprigs
+		dried parsley
+	basil
+		fresh basil
+			fresh basil leaves
+		thai basil
+		basil leaves
+	mushrooms
+		sliced mushrooms
+		shiitake
+			dried shiitake mushrooms
+		button mushrooms
+		porcini mushrooms
+			dried porcini mushrooms
+		cremini mushrooms
+		fresh mushrooms
+	scallions
+	chives
+		chopped fresh chives
+		fresh chives
+	spinach
+		baby spinach
+			baby spinach leaves
+		frozen chopped spinach
+		fresh spinach
+	potatoes
+		baking potatoes
+		yukon gold potatoes
+		red potato
+		russet potatoes
+	sweet potatoes
+	squash
+		yellow squash
+		butternut squash
+	beansprouts
+	broccoli
+		broccoli florets
+	capers
+	cabbage
+		green cabbage
+		shredded cabbage
+		napa cabbage
+		red cabbage
+	carrots
+		shredded carrots
+		sliced carrots
+	celery
+		chopped celery
+		celery ribs
+	turnips
+	peas
+		black-eyed peas
+		frozen peas
+		green peas
+		snow peas
+		sugar pea
+	fennel bulb
+	leeks
+	eggplant
+	watercress
+	radishes
+		daikon
+	oregano
+		fresh oregano
+		Mexican oregano
+	tomatillos
+	cauliflower
+	cucumber
+		english cucumber
+	zucchini
+	asparagus
+	artichoke
+		artichoke hearts
+	dill
+		fresh dill
+	kale
+	mint
+		fresh mint
+		mint leaves
+		mint sprigs
+	arugula
+	sage
+		chopped fresh sage
+	beets
+	marjoram
+	curry
+		curry leaves
+	bay leaf
+		bay leaves
+	sage
+		sage leaves
+	collard greens
+	swiss chard
+	okra
+	tarragon
+		fresh tarragon
+	bamboo shoots
+	bok choy
+fruits
+	citrus
+		orange
+			orange juice
+				fresh orange juice
+			orange zest
+			grated orange
+		lemon
+			lemon juice
+				fresh lemon juice
+			lemon zest
+				grated lemon zest
+			lemon peel
+				grated lemon peel
+			lemon wedge
+		lime
+			lime juice
+				fresh lime juice
+			lime wedges
+			lime zest
+			kaffir lime leaves
+	avocado
+	mango
+	raisins
+		golden raisins
+	apples
+		granny smith apples
+	strawberries
+	peaches
+	bananas
+	apricot
+		dried apricot
+	pineapple
+	water chestnuts
+seasoning
+	spices
+		ground pepper
+			ground white pepper
+			ground black pepper
+				cracked black pepper
+			ground red pepper
+			freshly ground pepper
+			crushed red pepper
+			ground cayenne pepper
+		salt
+			seasoning salt
+			sea salt
+				fine sea salt
+			kosher salt
+			coarse salt
+		thyme
+			fresh thyme
+				chopped fresh thyme
+			dried thyme
+			fresh thyme leaves
+			thyme sprigs
+		garlic seasoning
+			minced garlic
+			garlic powder
+			crushed garlic
+			ground cloves
+		chili powder
+		cumin
+			ground cumin
+		cinnamon
+			ground cinnamon
+			cinnamon sticks
+		dried oregano
+		ginger
+			fresh ginger
+				peeled fresh ginger
+			ground ginger
+			fresh ginger root
+			minced ginger
+			ginger root
+				gingerroot
+		pepper flakes
+			red pepper flakes
+				crushed red pepper flakes
+				hot red pepper flakes
+		tumeric
+			ground turmeric
+		italian seasoning
+		chopped fresh mint
+		paprika
+			smoked paprika
+			sweet paprika
+		cajun seasoning
+		onion powder
+		chile powder
+		dried basil
+		creole seasoning
+		chinese five-spice powder
+		star anise
+		cumin seed
+		curry powder
+		allspice
+			ground allspice
+		lemongrass
+			lemon grass
+		rosemary
+			fresh rosemary
+			dried rosemary
+			rosemary sprigs
+		nutmeg seasoning
+			ground nutmeg
+			grated nutmeg
+		cardamom
+			ground cardamom
+		saffron
+			saffron threads
+		taco seasoning mix
+		chili flakes
+		garlic salt
+		taco seasoning
+		salt and ground black pepper
+		red chili powder
+		garam masala
+		peppercorns
+			szechwan peppercorns
+extracts
+	almond extract
+	vanilla extract
+		pure vanilla extract
+legumes
+	chickpeas
+	beans
+		vanilla beans
+		pinto beans
+		garbanzo beans
+		green beans
+		black beans
+		refried beans
+		cannellini beans
+		kidney beans
+	lentils
+		red lentils
+dairy
+	cheese
+		shredded cheese
+		cream cheese
+			cream cheese, soften
+		feta cheese
+			feta cheese crumbles
+		cheddar cheese
+			sharp cheddar cheese
+			shredded cheddar cheese
+			shredded sharp cheddar cheese
+		provolone cheese
+		parmesan cheese
+			fresh parmesan cheese
+			grated parmesan cheese
+			freshly grated parmesan
+		mozzarella cheese
+			part-skim mozzarella cheese
+			shredded mozzarella cheese
+		monterey jack
+			jack cheese
+			shredded Monterey Jack cheese
+		mascarpone
+		Mexican cheese blend
+		romano cheese
+			pecorino romano cheese
+		parmigiano reggiano cheese
+		ricotta cheese
+			ricotta
+				part-skim ricotta cheese
+		goat cheese
+		fontina cheese
+		cottage cheese
+		queso fresco
+		paneer
+		cotija
+	milk
+		evaporated milk
+		fat free milk
+		1% low-fat milk
+		sweetened condensed milk
+		whole milk
+		buttermilk
+	butter
+		unsalted butter
+		melted butter
+		ghee
+	yogurt
+		yoghurt
+			greek yogurt
+				greek style plain yogurt
+			plain yogurt
+	cream
+		heavy cream
+		sour cream
+			reduced-fat sour cream
+			non-fat sour cream
+		whipping cream
+		heavy whipping cream
+		cream of tartar
+		whipped cream
+		crème fraîche
+	shortening
+flour
+	all purpose unbleached flour
+	plain flour
+	cake flour
+	all-purpose flour
+	self rising flour
+	whole wheat flour
+	bread flour
+		bread
+			baguette
+			french bread
+			bread crumbs
+				dry bread crumbs
+				panko breadcrumbs
+				bread crumb fresh
+			Italian bread
+			white bread
+eggs
+	large eggs
+	egg yolks
+		large egg yolks
+	egg whites
+		large egg whites
+	hard-boiled egg
+oil
+	vegetable oil
+	cooking oil
+	olive oil
+		extra-virgin olive oil
+	canola oil
+	sesame oil
+		dark sesame oil
+		toasted sesame oil
+	peanut oil
+	corn oil
+	chili oil
+	coconut oil
+meat
+	poultry
+		chicken
+			ground chicken
+			chicken thighs
+			boneless chicken skinless thigh
+			chicken breasts
+				cooked chicken breasts
+				boneless skinless chicken breasts
+					boneless skinless chicken breast halves
+				chicken breast halves
+				boneless chicken breast
+			cooked chicken
+			chicken legs
+			chicken wings
+		turkey
+			ground turkey
+	sea food
+		fish
+			salmon
+				salmon fillets
+			catfish
+				catfish fillets
+			anchovy
+				anchovy fillets
+		shrimp
+			medium shrimp
+			large shrimp
+		crawfish
+		mussels
+		crab
+			lump crab meat
+		sea scallops
+	sausages
+		chorizo sausage
+		andouille sausage
+		italian sausage
+		smoked sausage
+	pork
+		bacon
+			bacon slices
+		ground pork
+		ham
+			prosciutto
+		pork shoulder
+		pork tenderloin
+		pork belly
+			pancetta
+		pork sausages
+	beef
+		flank steak
+		ground beef
+			lean ground beef
+	lamb
+		ground lamb
+vinegar
+	white vinegar
+	rice vinegar
+	balsamic vinegar
+	sherry vinegar
+	wine vinegar
+		white wine vinegar
+		red wine vinegar
+	cider vinegar
+		apple cider vinegar
+	marsala wine
+corn
+	cornflour
+		cornmeal
+			yellow corn meal
+	corn starch
+	frozen corn
+	corn kernels
+		frozen corn kernels
+		whole kernel corn, drain
+	polenta
+water
+	boiling water
+	ice
+		ice cubes
+	cold water
+	warm water
+	hot water
+	ice water
+paste
+	garlic paste
+	tomato paste
+	Gochujang base
+	curry paste
+		Thai red curry paste
+	ginger paste
+sugar
+	caster sugar
+	powdered sugar
+	confectioners sugar
+	palm sugar
+	white sugar
+	brown sugar
+		light brown sugar
+		dark brown sugar
+	granulated sugar
+baking
+	baking powder
+sauce
+	soy
+		soy sauce
+			low sodium soy sauce
+			light soy sauce
+			dark soy sauce
+			reduced sodium soy sauce
+	asian fish sauce
+	hoisin sauce
+	marinara sauce
+	oyster sauce
+	hot sauce
+	fish sauce
+		Thai fish sauce
+	worcestershire sauce
+	hot pepper sauce
+	enchilada sauce
+	pesto
+	Sriracha
+	tomato sauce
+	salsa
+		salsa verde
+	pasta sauce
+	chili sauce
+		garlic chili sauce
+		sweet chili sauce
+	barbecue sauce
+	Tabasco Pepper Sauce
+mustard
+	dry mustard
+	dijon mustard
+	black mustard
+mayonaise
+wine
+	white wine
+		dry white wine
+	Shaoxing wine
+	dry sherry
+	rice wine
+		chinese rice wine
+	red wine
+		dry red wine
+	rice wine
+nuts
+	walnuts
+	chopped walnuts
+	pecans
+		chopped pecans
+	almonds
+		slivered almonds
+		sliced almonds
+	pinenuts
+	hazelnuts
+	pecans
+		pecan halves
+	cashew nuts
+	nutmeg
+rice
+	cooked rice
+	rice noodles
+	white rice
+		cooked white rice
+		long grain white rice
+	jasmine rice
+	basmati rice
+	long-grain rice
+	arborio rice
+	brown rice
+peanuts
+	roasted peanuts
+peanut butter
+	creamy peanut butter
+tofu
+	extra firm tofu
+	firm tofu
+pastes
+	red curry paste
+	chili paste
+pasta
+	linguine
+	spaghetti
+	penne pasta
+		penne
+	lasagna
+		lasagna noodles
+	noodles
+	fettucine
+	bow-tie pasta
+molasses
+tortillas
+	flour tortillas
+	corn tortillas
+	tortilla chips
+condiment
+	mirin
+	sake
+honey
+coconut
+	coconut milk
+		light coconut milk
+		unsweetened coconut milk
+vanilla
+syrup
+	maple syrup
+	light corn syrup
+couscous
+chocolate
+	semisweet chocolate
+	bittersweet chocolate
+rice flour
+margarine
+quinoa
+alcohol
+	beer
+	rum
+		dark rum
+	tequila
+	whiskey
+		bourbon whiskey
+	brandy
+seeds
+	fennel seeds
+	sesame seeds
+		toasted sesame seeds
+	mustard seeds
+	coriander seeds
+	black mustard seeds
+yeast
+	dry yeast
+		active dry yeast
+dough
+	pizza doughs
+	masa harina
+cooking
+	cooking spray
+		vegetable oil cooking spray
+	stock
+		vegetable stock
+		chicken stock
+		beef stock
+		dashi
+	broth
+		chicken broth
+			fat free less sodium chicken broth
+			low salt chicken broth
+			low sodium chicken broth
+			reduced sodium chicken broth
+		vegetable broth
+		beef broth
+	baking soda
+	gelatin
+		unflavored gelatin
+	lard
+	unsweetened cocoa powder
+dip
+	guacamole
