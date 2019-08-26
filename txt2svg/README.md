@@ -7,3 +7,5 @@ C -> D
 ```
 
 to svg figures of those graphs. It uses networkx to determine the graph's layout (I used several different algorithms for different graphs). Includes constants for the element width, height, and node radius.
+
+Usage: `txt2svg <graph>.txt`; result will be saved to `mypage.html`.
