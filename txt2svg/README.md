@@ -1,6 +1,6 @@
 ## txt2svg
 A small (and very crude) utility script used to convert textual representations of graphs, such as:
-```python
+```
 A -> B
 B -> C
 C -> D
